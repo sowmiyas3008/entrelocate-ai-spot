@@ -1,0 +1,44 @@
+// {
+//   "files": [],
+//   "references": [{ "path": "./tsconfig.app.json" }, { "path": "./tsconfig.node.json" }],
+//   "compilerOptions": {
+//     "baseUrl": ".",
+//     "paths": {
+//       "@/*": ["./src/*"]
+//     },
+//     "noImplicitAny": false,
+//     "noUnusedParameters": false,
+//     "skipLibCheck": true,
+//     "allowJs": true,
+//     "noUnusedLocals": false,
+//     "strictNullChecks": false
+//   }
+// }
+// {
+//   "compilerOptions": {
+//     "baseUrl": ".",
+//     "paths": {
+//       "@/*": ["./src/*"]
+//     },
+//     "checkJs": true,
+//     "allowJs": true,
+//     "noUnusedLocals": false,
+//     "noUnusedParameters": false,
+//     "strictNullChecks": false,
+//     "skipLibCheck": true,
+//     "noImplicitAny": false
+//   },
+//   "include": ["src"]
+// }
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "jsx": "react-jsx",
+    "checkJs": false
+  },
+  "include": ["src"]
+}
+
