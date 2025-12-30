@@ -15,6 +15,7 @@ import ShopTypeResults from "./pages/ShopTypeResults";
 import AnalysisResults from "./pages/AnalysisResults";
 import NotFound from "./pages/NotFound";
 import ClusterDetails from "./pages/ClusterDetails";
+import ShopTypeAnalyzer from "./pages/shopTypeAnalyzer";
 
 const queryClient = new QueryClient();
 
@@ -36,6 +37,9 @@ const App = () => (
           <Route path="/shop-type-results" element={<ShopTypeResults />} />
           <Route path="/analysis-results" element={<AnalysisResults />} />
           <Route path="/cluster-details" element={<ClusterDetails />} />
+          <Route path="/shop-type-analyzer" element={<ShopTypeAnalyzer />} />
+
+
 
 
           

@@ -83,7 +83,7 @@ const Selection = () => {
 
   const options = [
     { icon: MapPin, title: "Find Location", subtitle: "Shop Category Given", description: "Already know your business type? Find the best location for it.", path: "/find-location", color: "text-secondary" },
-    { icon: Building2, title: "Find Shop Type", subtitle: "City Given", description: "Have a location in mind? Discover which business thrives there.", path: "/find-shop-type", color: "text-accent" },
+    { icon: Building2, title: "Find Shop Type", subtitle: "City Given", description: "Have a location in mind? Discover which business thrives there.", path: "/shop-type-analyzer", color: "text-accent" },
     { icon: BarChart3, title: "View Shop Analysis", subtitle: "Existing User", description: "Track your business performance with detailed analytics.", path: "/shop-analysis", color: "text-primary" },
   ];
 
