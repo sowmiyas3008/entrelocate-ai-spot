@@ -8,10 +8,10 @@ import SignUp from "./pages/SignUp";
 import Login from "./pages/Login";
 import Selection from "./pages/Selection";
 import FindLocation from "./pages/FindLocation";
-import FindShopType from "./pages/FindShopType";
+// import FindShopType from "./pages/FindShopType";
 import ShopAnalysis from "./pages/ShopAnalysis";
 import LocationResults from "./pages/LocationResults";
-import ShopTypeResults from "./pages/ShopTypeResults";
+// import ShopTypeResults from "./pages/ShopTypeResults";
 import AnalysisResults from "./pages/AnalysisResults";
 import NotFound from "./pages/NotFound";
 import ClusterDetails from "./pages/ClusterDetails";
@@ -31,10 +31,10 @@ const App = () => (
           <Route path="/login" element={<Login />} />
           <Route path="/selection" element={<Selection />} />
           <Route path="/find-location" element={<FindLocation />} />
-          <Route path="/find-shop-type" element={<FindShopType />} />
+          {/* <Route path="/find-shop-type" element={<FindShopType />} /> */}
           <Route path="/shop-analysis" element={<ShopAnalysis />} />
           <Route path="/location-results" element={<LocationResults />} />
-          <Route path="/shop-type-results" element={<ShopTypeResults />} />
+          {/* <Route path="/shop-type-results" element={<ShopTypeResults />} /> */}
           <Route path="/analysis-results" element={<AnalysisResults />} />
           <Route path="/cluster-details" element={<ClusterDetails />} />
           <Route path="/shop-type-analyzer" element={<ShopTypeAnalyzer />} />
