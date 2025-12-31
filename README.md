@@ -43,9 +43,10 @@ npm run dev
 This project is built with:
 
 - Vite
-- TypeScript
-- React
+- React JS
 - shadcn-ui
 - Tailwind CSS
+- Python 
+- Firebase 
 
 
