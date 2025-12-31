@@ -1,18 +1,6 @@
-# Welcome to your Lovable project
 
-## Project info
+To visit projet : https://entrelocate-ai-spot.vercel.app/
 
-**URL**: https://lovable.dev/projects/c5e9dc47-c632-45cc-a4c2-1734901701ae
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/c5e9dc47-c632-45cc-a4c2-1734901701ae) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -55,19 +43,10 @@ npm run dev
 This project is built with:
 
 - Vite
-- TypeScript
-- React
+- React JS
 - shadcn-ui
 - Tailwind CSS
+- Python 
+- Firebase 
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/c5e9dc47-c632-45cc-a4c2-1734901701ae) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
