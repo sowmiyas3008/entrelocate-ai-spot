@@ -1,5 +1,7 @@
 
 To visit projet : https://entrelocate-ai-spot.vercel.app/
+
+
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
