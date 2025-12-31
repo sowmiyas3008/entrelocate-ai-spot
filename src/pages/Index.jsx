@@ -201,7 +201,7 @@ const Index = () => {
           <p className="text-lg text-muted-foreground mb-6">
             Have questions? We'd love to hear from you.
           </p>
-          <a href="mailto:contact@entrelocate.com">
+          <a href="mailto:itsmemiya30@gmail.com">
             <Button size="lg" className="bg-secondary text-secondary-foreground hover:bg-secondary/90 font-semibold">
               Contact Us
             </Button>
